@@ -5,6 +5,7 @@ Adapted for: DEN
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--We never start class at 9:00, 9:03 more like it yay-->
 <!--9:00 5 minutes -->
 
 <!-- So who remembers Git?
